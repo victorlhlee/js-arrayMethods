@@ -17,7 +17,7 @@
    
 
  #Some Helpful Resources:
- http://www.w3schools.com/js/js_array_methods.asp
- http://www.w3schools.com/jsref/jsref_obj_array.asp
- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
- http://devdocs.io/javascript-array/
+ 1) W3 Schools Array methods: http://www.w3schools.com/js/js_array_methods.asp
+ 2) W3 Schools Array reference: http://www.w3schools.com/jsref/jsref_obj_array.asp
+ 3) Mozilla Developer Network Arrays: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+ 4) Devdocs Javascript arrays: http://devdocs.io/javascript-array/
