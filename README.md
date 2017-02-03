@@ -16,4 +16,8 @@
    - `node exercise.js` (don't forget to console.log your work)
    
 
-    
+ #Some Helpful Resources:
+ http://www.w3schools.com/js/js_array_methods.asp
+ http://www.w3schools.com/jsref/jsref_obj_array.asp
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+ http://devdocs.io/javascript-array/
